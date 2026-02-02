@@ -2,7 +2,7 @@
   "name": "GymPro Ultra Ultimate",
   "short_name": "GymPro",
   "description": "Rastreador de Performance de Elite para Atletas",
-  "start_url": ".",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#070b14",
   "theme_color": "#fbbf24",
